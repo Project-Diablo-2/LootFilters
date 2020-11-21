@@ -1,1 +1,10 @@
-[{"name": "", "url": "", "author": ""}]
+[
+  {"name": "Kryszard's PD2 Loot Filter", "url": "https://api.github.com/repos/Kryszard-POD/Kryszard-s-PD2-Loot-Filter/contents", "author": "Kryszard"},
+  {"name": "Wolfie's Filters", "url": "https://api.github.com/repos/WolfieeifloW/pd2filter/contents", "author": "Wolfie"},
+  {"name": "Kryszard's Loot Filter Edit by Gothablo's", "url": "https://api.github.com/repos/Gothablo/FiltrPD2byGothablo/contents", "author": "Gothablo"},
+  {"name": "ElPocoBurrito's Filter", "url": "https://api.github.com/repos/rockbyo5/PocoLootFilter/contents", "author": "ElPocoBurrito"},
+  {"name": "Twisted's Strict All-In-One", "url": "https://api.github.com/repos/ImTwistedBro/Twisteds-Strict-Filter/contents", "author": "Twisted"},
+  {"name": "Rinku's Loot Filter", "url": "https://api.github.com/repos/Rinkusan/Rinku-s-Filter/contents", "author": "Rinku"},
+  {"name": "Luke's late game filter", "url": "https://api.github.com/repos/Luke-1335/PD2/contents", "author": "Luke"},
+  {"name": "Dethklok1637's beginner item filter", "url": "https://api.github.com/repos/PAFaieta/DethkloksPD2itemFIlter/contents", "author": "Dethklok1637"}
+]
