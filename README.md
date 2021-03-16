@@ -14,8 +14,8 @@ You can also click on the &#128712; above the right-side column to go to that cr
 ![04](https://user-images.githubusercontent.com/40577712/110861945-daa1c800-828c-11eb-95fa-7bc8714fd885.png)
 
 ## Using a Local Filter
-To use your own local filter (useful if you customize an online one) place the filter in the **ProjectD2\filters\local** folder. Any *.filter* file in this folder will show up in the launcher under the **Local** option:
-![05](https://user-images.githubusercontent.com/40577712/110862800-c7dbc300-828d-11eb-8971-083ca0b6550c.png)
+To use your own local filter (useful if you customize an online one) place `default.filter` in the `ProjectD2\filters\local` folder. Now in the launcher select the **Local** option to use this filter:
+![05](https://user-images.githubusercontent.com/40577712/111204358-6c1a7e00-859c-11eb-9124-66289c2a4d48.png)
 
 ## For Loot Filter Creators
 To get your loot filter added to the launcher do a pull request to **filters.json**. The format is:
