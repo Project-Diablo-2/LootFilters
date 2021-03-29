@@ -20,9 +20,10 @@ To use your own local filter (useful if you customize an online one) place `defa
 ## For Loot Filter Creators
 To get your loot filter added to the launcher do a pull request to **filters.json**. The format is:
 * **name:** the name for your filters; this is what will display beside the &#128712; in the launcher above your list of *.filter* files
-* **url:** the URL to your GitHub repository which contains your *.filter* files
+* **url:** the URL to your GitHub repository which contains your *.filter* files (example and explanation below)
 * **author:** your name; this is what will display on the left-side column in the launcher
 
 An example JSON line using this repo would be:  
   
     {"name": "Elmegaard's Dope Filter's", "url": "https://api.github.com/Project-Diablo-2/LootFilters/contents", "author": "Elmegaard"}
+Please note this is the URL of your base GitHub page with the added **api.** at the beginning and **/contents** at the end of the URL.
