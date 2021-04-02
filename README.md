@@ -26,4 +26,4 @@ To get your loot filter added to the launcher do a pull request to **filters.jso
 An example JSON line using this repo would be:  
   
     {"name": "Elmegaard's Dope Filter's", "url": "https://api.github.com/Project-Diablo-2/LootFilters/contents", "author": "Elmegaard"}
-Please note this is the URL of your base GitHub page with the added **api.** at the beginning and **/contents** at the end of the URL.
+Please note this is the URL of your base GitHub page with the added `api.` at the beginning and `/contents` at the end of the URL.
