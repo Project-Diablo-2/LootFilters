@@ -13,7 +13,8 @@ Using this option will allow you to select which filter you want and not have to
 You can also click on the &#128712; above the right-side column to go to that creators GitHub page:
 ![04](https://user-images.githubusercontent.com/40577712/110861945-daa1c800-828c-11eb-95fa-7bc8714fd885.png)
 
-## Using a Local Filter
+## Using a Local / Customized Filter
+**NOTE:** When you use a local filter this means you do not get the automatic updates from the creator. You will have to manually edit in the changes from the creator when they make them.  
 To use your own local filter (useful if you customize an online one) place `default.filter` in the `ProjectD2\filters\local` folder. Now in the launcher select the **Local** option to use this filter:
 ![05](https://user-images.githubusercontent.com/40577712/111204358-6c1a7e00-859c-11eb-9124-66289c2a4d48.png)
 
