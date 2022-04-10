@@ -29,6 +29,7 @@ To get your loot filter added to the launcher do a pull request to **filters.jso
 * **name:** the name for your filters; this is what will display beside the &#128712; in the launcher above your list of *.filter* files
 * **url:** the URL to your GitHub repository which contains your *.filter* files (example and explanation below)
 * **author:** your name; this is what will display on the left-side column in the launcher
+When submitting a pull request first please validate your edit to the JSON is valid using https://jsonlint.com/
 
 An example JSON line using this repo would be:  
   
