@@ -31,6 +31,7 @@ To get your loot filter added to the launcher do a pull request to **filters.jso
 * **author:** your name; this is what will display on the left-side column in the launcher
 
 **NOTE:** these fields cannot contain special characters (such as `&` etc) or it will break the launcher
+Your repo should also contain a `README.md` file, even if it's just the header in it.
 
 When submitting a pull request please check your edit to the JSON is valid using https://jsonlint.com/
 
