@@ -1,13 +1,14 @@
 [
-  {"name": "Wolfie's PD2 Loot Filters", "url": "https://api.github.com/repos/WolfieeifloW/pd2filter/contents", "author": "Wolfie"},
-  {"name": "Kryszard's PD2 Loot Filter", "url": "https://api.github.com/repos/Kryszard-POD/Kryszard-s-PD2-Loot-Filter/contents", "author": "Kryszard"},
-  {"name": "Kassahi's PD2 Filter", "url": "https://api.github.com/repos/KassahiPD2/Kassahi/contents", "author": "Kassahi"},
-  {"name": "eqN's PD2 Filters", "url": "https://api.github.com/repos/eqNj/eqN-PD2-Filter/contents", "author": "eqN"},
-  {"name": "Erazure's PD2 Loot Filter", "url": "https://api.github.com/repos/FiltersBy-Erazure/PD2-Loot-Filter/contents", "author": "Erazure"},
-  {"name": "HiimFilter by Maaaark + HiimDave", "url": "https://api.github.com/repos/Maaaaaarrk/HiimFilter-PD2-Filter/contents", "author": "HiimFilter"},
-  {"name": "DarkHumility + ADev Filter", "url": "https://api.github.com/repos/DarkHumility/DHFilter/contents", "author": "ADevDH"},
-  {"name": "Dauracul's PD2 Loot Filter", "url": "https://api.github.com/repos/Dauracul/filter/contents", "author": "Dauracul"},
-  {"name": "Sven's Filter", "url": "https://api.github.com/repos/StandInTheRiver/Sven-s-Filter/contents", "author": "Sven"},
-  {"name": "PiLLLa Filter", "url": "https://api.github.com/repos/PiLLLaa/pd2/contents", "author": "PiLLLa"},
-  {"name": "Loot Goblin Filter", "url": "https://api.github.com/repos/PreyInstinct/Loot-Goblin-Filter/contents", "author": "PreyInstinct"}
+  {"name":"Wolfie's PD2 Loot Filters","url":"https://api.github.com/repos/WolfieeifloW/pd2filter/contents","author":"Wolfie"},
+  {"name":"Kryszard's PD2 Loot Filter","url":"https://api.github.com/repos/Kryszard-POD/Kryszard-s-PD2-Loot-Filter/contents","author":"Kryszard"},
+  {"name":"Kassahi's PD2 Filter","url":"https://api.github.com/repos/KassahiPD2/Kassahi/contents","author":"Kassahi"},
+  {"name":"eqN's PD2 Filters","url":"https://api.github.com/repos/eqNj/eqN-PD2-Filter/contents","author":"eqN"},
+  {"name":"Erazure's PD2 Loot Filter","url":"https://api.github.com/repos/FiltersBy-Erazure/PD2-Loot-Filter/contents","author":"Erazure"},
+  {"name":"HiimFilter by Maaaark + HiimDave","url":"https://api.github.com/repos/Maaaaaarrk/HiimFilter-PD2-Filter/contents","author":"HiimFilter"},
+  {"name":"DarkHumility + ADev Filter","url":"https://api.github.com/repos/DarkHumility/DHFilter/contents","author":"ADevDH"},
+  {"name":"Dauracul's PD2 Loot Filter","url":"https://api.github.com/repos/Dauracul/filter/contents","author":"Dauracul"},
+  {"name":"Sven's Filter","url":"https://api.github.com/repos/StandInTheRiver/Sven-s-Filter/contents","author":"Sven"},
+  {"name":"PiLLLa Filter","url":"https://api.github.com/repos/PiLLLaa/pd2/contents","author":"PiLLLa"},
+  {"name":"Loot Goblin Filter","url":"https://api.github.com/repos/PreyInstinct/Loot-Goblin-Filter/contents","author":"PreyInstinct"},
+  {"name":"Roofoo's Filter","url":"https://api.github.com/repos/RoofooEvazan/Roofoo-s-PD2-Loot-Filter/contents","author":"Roofoo"}
 ]
