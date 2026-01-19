@@ -10,5 +10,6 @@
   {"name":"Sven's Filter","url":"https://api.github.com/repos/StandInTheRiver/Sven-s-Filter/contents","author":"Sven"},
   {"name":"PiLLLa Filter","url":"https://api.github.com/repos/PiLLLaa/pd2/contents","author":"PiLLLa"},
   {"name":"Loot Goblin Filter","url":"https://api.github.com/repos/PreyInstinct/Loot-Goblin-Filter/contents","author":"PreyInstinct"},
-  {"name":"Roofoo's Filter","url":"https://api.github.com/repos/RoofooEvazan/Roofoo-s-PD2-Loot-Filter/contents","author":"Roofoo"}
+  {"name":"Roofoo's Filter","url":"https://api.github.com/repos/RoofooEvazan/Roofoo-s-PD2-Loot-Filter/contents","author":"Roofoo"},
+  {"name":"Phyx10n's Filter","url":"https://api.github.com/repos/Phyx10n/PD2-Filter/contents","author":"Phyx10n"}
 ]
