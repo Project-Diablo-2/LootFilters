@@ -25,7 +25,7 @@ You can also use the other buttons for extra information:
 
 # Using a Local / Customized Filter
 **NOTE:** When you use a local filter this means you do not get the automatic updates from the creator. You will have to manually edit in the changes from the creator when they make them.  
-To use your own local filter (useful if you customize an online one) use the **Copy to Local** button and then edit the filter in the `..\ProjectD2\filters\local\` folder. In the launcher you can now use the **Local Filter** option to use your modified version:
+To use your own local filter (useful if you customize an online one) use the **Copy to Local** button and then edit the filter in the `..\ProjectD2\filters\local\` folder. In the launcher you can now use the **Local Filter** option to use your modified version:  
 <img width="710" height="530" alt="PD2LootFilter04" src="https://github.com/user-attachments/assets/0642f53c-fedd-46e0-91b1-cf1307cb5e0a" />
 
 # For Loot Filter Creators
